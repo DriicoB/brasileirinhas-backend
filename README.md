@@ -38,3 +38,6 @@
  - [ ] Segurança no armazenamento das senhas (hashing)
  - [ ] Busca por eventos referente ao dia atual
  - [ ] Criar quizzes referentes a cultura do país
+ - [ ] Implementar CRUDs funcionais
+ - [ ] Conectar com o BD
+ - [ ] Implementar o MVC funcional
