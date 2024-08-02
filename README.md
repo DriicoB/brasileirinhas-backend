@@ -32,5 +32,9 @@
 
  - [ ] Implementar o endpoint para criar usuários
  - [ ] Implementar a verificação do perfil do usuário em todos os endpoints
- - [ ] Limitar o acesso ao endpoint de criar usuários
+ - [ ] Limitar o acesso ao endpoint de criar usuários a admins
  - [ ] Criar filtragem por categorias
+ - [ ] Conectar as informações da API
+ - [ ] Segurança no armazenamento das senhas (hashing)
+ - [ ] Busca por eventos referente ao dia atual
+ - [ ] Criar quizzes referentes a cultura do país
