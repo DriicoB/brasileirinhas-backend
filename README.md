@@ -1,7 +1,7 @@
 # brasileirinhas-backend
 
 ## Requisitos
-1.Requisitos Funcionais:
+1. Requisitos Funcionais:
 - Autenticação e Autorização:
  Usuários devem poder se registrar e fazer login.
  Diferentes níveis de acesso (administradores, visitantes).
@@ -14,7 +14,7 @@
 - API Pública:
  Endpoints para acesso aos dados do site .
 
-2.Requisitos Não Funcionais:
+2. Requisitos Não Funcionais:
 - Performance:
  Respostas rápidas às solicitações dos usuários.
  Capacidade de lidar com um grande número de acessos simultâneos.
