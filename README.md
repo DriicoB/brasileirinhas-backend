@@ -33,4 +33,4 @@
  - [ ] Implementar o endpoint para criar usuários
  - [ ] Implementar a verificação do perfil do usuário em todos os endpoints
  - [ ] Limitar o acesso ao endpoint de criar usuários
- - [x] Criar filtragem por categorias
+ - [ ] Criar filtragem por categorias
